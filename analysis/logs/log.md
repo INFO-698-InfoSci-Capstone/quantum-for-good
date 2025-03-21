@@ -29,13 +29,13 @@ Log #1 / March 21, 2025
 
 
 ### Number of hours: 
-A quantity of hours, maybe towards specific tasks. 
+Since the kickoff meeting on February 19, 2025, I have spent well over 100 hours, at least, on the project. While my three meetings with mentor Sarah Young totaled only around four hours, most of my time was dedicated to collecting and reading articles to develop a ueeful research topic.
 
 ### Rose:
-Since the kickoff meeting on February 19, 2025, I have spent well over 100 hours on the project. While my three meetings with mentor Sarah Young totaled around four hours, most of my time was dedicated to collecting and reading articles to develop a strong research topic.
+Meeting with one of the founders of the quantum startup 'DiffraQtion' was exciting and gave me new insights into real-world applications of quantum technology and the challenges deep tech startups are currently facing. 
 
 ### Bud: 
-Meeting with one of the founders of the quantum startup 'DiffraQtion' was exciting and gave me new insights into real-world applications of quantum technology and the challenges deep tech startups are currently facing. I have another meeting scheduled with my mentor on March 31 to finalize my topic for the Workshop on Responsible Quantum Innovation, which will take place at UCLA on May 27–28. I’m looking forward to refining my focus and preparing for the event.
+I have another meeting scheduled with my mentor on March 31 to finalize my topic for the Workshop on Responsible Quantum Innovation, which will take place at UCLA on May 27–28. I’m looking forward to refining my focus and preparing for the event.
 
 ### Thorn: 
 Identifying a focused subject within quantum technology has been challenging due to its vast and complex nature. Since the field is still in its early stages, most of the topics I originally considered rely heavily on assumptions, making it difficult to predict the future of the technology. However, that uncertainty is also what makes the topic so exciting.
