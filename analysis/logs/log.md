@@ -27,7 +27,6 @@ Write anything that you think would be important for YOU later on.
 ### Date: 
 Log #1 / March 21, 2025 
 
-
 ### Number of hours: 
 Since the kickoff meeting on February 19, 2025, I have spent well over 100 hours, at least, on the project. While my three meetings with mentor Sarah Young totaled only around four hours, most of my time was dedicated to collecting and reading articles to develop a ueeful research topic.
 
@@ -44,3 +43,23 @@ Identifying a focused subject within quantum technology has been challenging due
 Recommended Readings: Law and Policy in the Quantum Age, The Quantum Internet.
 
 ---
+
+### Date: 
+Log #2 / March 28, 2025 
+
+### Number of hours: 
+About 30-40 hrs
+
+### Rose:
+Exploring the real-world policy implications of quantum technology has been deeply engaging. I especially enjoyed learning about China’s success with the Micius satellite, which demonstrates how geopolitical power is already being shaped by quantum innovation. Observing the intersection of science, national strategy, and global competition has deepened my understanding of the critical role policy design plays in this emerging field.
+
+### Bud: 
+I have another meeting scheduled with my mentor on March 31 to finalize my topic for the Workshop on Responsible Quantum Innovation, which will take place at UCLA on May 27–28. I’m looking forward to refining my focus and preparing for the event.
+
+### Thorn: 
+Identifying a focused subject within quantum technology has been challenging.
+
+## Additional thought
+
+---
+
