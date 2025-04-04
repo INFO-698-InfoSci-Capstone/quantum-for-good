@@ -63,3 +63,22 @@ Identifying a focused subject within quantum technology has been challenging.
 
 ---
 
+### Date: 
+Log #3 / April 03, 2025 
+
+### Number of hours: 
+30 hrs
+
+### Rose:
+Finally locked in the project topic, “Quantum for Good? Not Without Return,” and submitted my poster proposal along with resume on Tuesday.
+
+### Bud: 
+The poster selection process is scheduled for Friday. Once the proposal is chosen, there will be an opportunity for the project to be showcased and potentially developed further. The topic explores the investment trend in quantum technology companies, many of them have not yet generated profit, raising fundamental questions about long-term value, risk, and the intersection of science, hype, and, most importantly, sustainability.
+
+### Thorn: 
+A main concern is whether the research will lead to useful results. The topic is complex, and it’s important to find insights that can actually help startups in the quantum tech. field. It is a good challenge to make the project both clear and meaningful.
+
+## Additional thought
+
+---
+
