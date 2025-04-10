@@ -82,3 +82,21 @@ A main concern is whether the research will lead to useful results. The topic is
 
 ---
 
+### Date: 
+Log #4 / April 10, 2025 
+
+### Number of hours: 
+Appr. 30 hrs.
+
+### Rose:
+More indepth research has begun with a focus on identifying more of relevant quantum tech companies, marking a productive step forward. 
+
+### Bud: 
+The poster selection process was scheduled for last Friday, but there has been no update from Sarah yet.
+
+### Thorn: 
+The same Thorn still exists, and it will be until the day the research is completed.
+
+## Additional thought
+
+---
