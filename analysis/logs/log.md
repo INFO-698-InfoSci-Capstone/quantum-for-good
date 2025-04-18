@@ -107,15 +107,15 @@ Log #5 / April 18, 2025
 ### Number of hours: 
 Appr. 20 hrs.
 
-Rose:
+### Rose:
 I received great news that my poster proposal was rated among the top five by the CFP judges, which was a meaningful affirmation of the work so far.
 I’ve been invited to attend the UCLA workshop and may also have the opportunity to moderate a panel, offering a meaningful way to engage more deeply with the event.
 
-Bud:
+### Bud:
 Although the poster session was canceled due to unexpected NSF funding cuts, the workshop is still moving forward. 
 There’s potential to contribute in other ways, like bringing a poster voluntarily or helping as a panel moderator. Needs further updates.
 
-Thorn:
+### Thorn:
 The same concern remains: whether the research will ultimately lead to actionable insights that can support early stage quantum startups.
 
 ## Additional thought
