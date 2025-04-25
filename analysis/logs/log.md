@@ -121,3 +121,23 @@ The same concern remains: whether the research will ultimately lead to actionabl
 ## Additional thought
 
 ---
+
+### Date: 
+Log #6 / April 25, 2025 
+
+### Number of hours: 
+Appr. 20 hrs.
+
+### Rose:
+This week, I have been focused on finalizing the poster and continuing research on investment trends in quantum tech startups.
+
+### Bud:
+I’m exploring alternative ways to contribute, such as bringing the poster informally or serving as a panel moderator. 
+These possibilities are still open and could provide a valuable platform to share insights and engage with others in the field.
+
+### Thorn:
+The same concern remains: whether the research will ultimately lead to actionable insights that can support early stage quantum startups.
+
+## Additional thought
+
+---
