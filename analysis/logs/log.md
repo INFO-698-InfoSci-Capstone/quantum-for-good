@@ -141,3 +141,23 @@ The same concern remains: whether the research will ultimately lead to actionabl
 ## Additional thought
 
 ---
+
+### Date: 
+Log #7 / May 1, 2025 
+
+### Number of hours: 
+Apprx. 30-40 hrs.
+
+### Rose:
+Some news related to the topic emerged last week, which helped reinforce the relevance of the project. This week, I’ve been closely following those updates while continuing to refine and finalize the poster.
+
+### Bud:
+With new developments in the news aligning with the project topic, there’s growing potential to incorporate timely, real-world examples into the poster. This could strengthen the relevance of the analysis and make the final presentation more accurate for workshop participants. 
+
+### Thorn:
+As the topic involves emerging technology and speculative investment, both very difficult to predict, drawing practical conclusions that could offer a guiding roadmap remains a significant challenge.
+
+## Additional thought
+I can't believe I made this far!!!
+
+---
